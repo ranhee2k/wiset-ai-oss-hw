@@ -21,7 +21,8 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 ### 정답
 
 commit 25ede836903881848fea811df5b687b59d962da3
-this.delayBeforeBullet = 10; 이 삭제됨. 다시 411줄에 넣으면 무한총알을 막을 수 있다.
+
+this.delayBeforeBullet = 10; 이 삭제돼서 버그가 나타났다. 다시 411줄에 해당 명령을 넣으면 무한총알을 막을 수 있다.
 
 ### 힌트
 
